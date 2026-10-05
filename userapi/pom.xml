@@ -11,8 +11,8 @@
 	<groupId>cat.itacademy.s04.t01</groupId>
 	<artifactId>userapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>UserApi</name>
+	<description>My first user manager REST API</description>
 	<url/>
 	<licenses>
 		<license/>
